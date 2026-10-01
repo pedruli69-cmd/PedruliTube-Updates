@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.3.7-dev-music-performance",
+  "versionCode": 29,
+  "versionName": "0.3.8-dev-coordinated-music-scroll",
   "apkUrl": "https://dean-including-medline-analyze.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V28: optimización de Música. Evita reescaneos al entrar, reduce recomposiciones del reproductor y virtualiza la biblioteca para mejorar carga y scroll del mini-player.",
+  "notes": "V29: scroll coordinado en Música. La biblioteca no consume el gesto mientras el reproductor grande/cabecera sigue visible; al colapsar la cabecera se habilita el scroll de canciones para evitar que el reproductor quede a medias.",
   "channel": "DEV"
 }
