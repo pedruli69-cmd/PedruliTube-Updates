@@ -1,0 +1,6 @@
+{
+  "versionCode": 24,
+  "versionName": "0.3.3-dev-ota-first",
+  "apkUrl": "https://github.com/pedruli69-cmd/PedruliTube-Updates/releases/download/v0.3.3-dev-ota-first/app-debug.apk",
+  "notes": "Primer estreno del OTA permanente. Limpia el aviso residual de enlaces incompatibles y elimina el campo manual de URL de actualizaciones."
+}
