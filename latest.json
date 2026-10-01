@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.3.6-dev-mini-player",
+  "versionCode": 28,
+  "versionName": "0.3.7-dev-music-performance",
   "apkUrl": "https://dean-including-medline-analyze.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V27: mini-player persistente en Música con carátula, título, progreso, anterior, play/pausa y siguiente durante el scroll. Toque en la barra para volver al reproductor completo.",
+  "notes": "V28: optimización de Música. Evita reescaneos al entrar, reduce recomposiciones del reproductor y virtualiza la biblioteca para mejorar carga y scroll del mini-player.",
   "channel": "DEV"
 }
