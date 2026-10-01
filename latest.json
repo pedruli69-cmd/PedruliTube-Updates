@@ -1,6 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.3.4-dev-audio-formats",
-  "apkUrl": "https://github.com/pedruli69-cmd/PedruliTube-Updates/releases/download/v0.3.4-dev-audio-formats/app-debug.apk",
-  "notes": "Audio Formats V1: reproducción multiformato más robusta, protección frente a audios incompatibles, mejoras de rendimiento en Música, reproductor más compacto y navegación Atrás inteligente."
+  "versionCode": 26,
+  "versionName": "0.3.5-dev-context-queue",
+  "apkUrl": "https://dean-including-medline-analyze.trycloudflare.com/PedruliTube-dev.apk",
+  "notes": "V26: cola de reproducción contextual en Todas, Recientes, Favoritos, búsquedas y Mis listas; estabilización visual del reproductor para evitar que asomen parcialmente los filtros inferiores.",
+  "channel": "DEV"
 }
