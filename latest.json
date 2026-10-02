@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.4.1-dev-measured-music-anchor",
+  "versionCode": 33,
+  "versionName": "0.4.2-dev-music-loading-playlist-scroll",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V32: scroll coordinado de Música con anclaje medido en pantalla. Mientras el reproductor grande siga visible, la lista no consume arrastre; filtros y buscador quedan como cabecera al ocultarlo, incluso con gestos rápidos.",
+  "notes": "V33: Música distingue carga de biblioteca de biblioteca vacía y muestra Cargando canciones… durante el escaneo. Mis listas usa scroll virtualizado propio al alcanzar el anclaje, igual que la biblioteca, para evitar conflicto con la cabecera.",
   "channel": "DEV"
 }
