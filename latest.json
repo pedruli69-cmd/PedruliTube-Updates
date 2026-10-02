@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "0.4.6-dev-music-scroll-architecture",
+  "versionCode": 38,
+  "versionName": "0.4.7-dev-music-scroll-clamp",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V37: reconstrucción del contrato de scroll de Música. Anclaje geométrico estable en Todas/Recientes/Favoritos/Mis listas, relevo bidireccional reproductor-contenido, viewport estable para canciones/playlists y márgenes/huecos integrados en el mismo nested scroll.",
+  "notes": "V38: corrige regresiones de scroll de Música. Clamp continuo impide que el contenedor exterior sobrepase la fila Todas/Recientes/Favoritos/Mis listas; canciones y playlists usan un viewport contenido para que sus últimos elementos sean alcanzables sin quedar ocultos tras la navegación inferior.",
   "channel": "DEV"
 }
