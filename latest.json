@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.4.4-dev-music-scroll-boundary",
+  "versionCode": 36,
+  "versionName": "0.4.5-dev-bidirectional-music-scroll",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V35: corrige los límites de scroll de Música. Con reproductor grande o minimizado, el contenido interno no toma el gesto hasta alcanzar el anclaje de Todas/Recientes/Favoritos/Mis listas; al llegar al anclaje el scroll exterior queda bloqueado para que márgenes y finales de listas no oculten filtros, logo ni Ajustes. Mis listas mantiene scroll interno completo con el reproductor abierto.",
+  "notes": "V36: corrección estructural del scroll de Música. Relevo bidireccional entre reproductor/cabecera y contenido: primero colapsa hasta las pestañas, después desplaza canciones o listas; al volver al inicio recupera el reproductor. El final del contenido ya no empuja la pantalla exterior.",
   "channel": "DEV"
 }
