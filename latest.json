@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "0.3.8-dev-coordinated-music-scroll",
-  "apkUrl": "https://dean-including-medline-analyze.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V29: scroll coordinado en Música. La biblioteca no consume el gesto mientras el reproductor grande/cabecera sigue visible; al colapsar la cabecera se habilita el scroll de canciones para evitar que el reproductor quede a medias.",
+  "versionCode": 30,
+  "versionName": "0.3.9-dev-music-sticky-filters",
+  "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
+  "notes": "V30: ajuste del scroll de Música para que el anclaje conserve visibles las fichas Todas, Recientes, Favoritos y Mis listas, con el buscador debajo, antes de que la lista de canciones tome el control.",
   "channel": "DEV"
 }
