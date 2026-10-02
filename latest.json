@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "0.4.0-dev-music-scroll-lock",
+  "versionCode": 32,
+  "versionName": "0.4.1-dev-measured-music-anchor",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V31: corrige el relevo de scroll en Música. La lista no debe consumir arrastre hasta ocultar completamente el reproductor grande; se reduce el hueco previo a filtros y el anclaje queda en Todas, Recientes, Favoritos y Mis listas con el buscador debajo.",
+  "notes": "V32: scroll coordinado de Música con anclaje medido en pantalla. Mientras el reproductor grande siga visible, la lista no consume arrastre; filtros y buscador quedan como cabecera al ocultarlo, incluso con gestos rápidos.",
   "channel": "DEV"
 }
