@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "0.4.7-dev-music-scroll-clamp",
+  "versionCode": 39,
+  "versionName": "0.4.8-dev-active-player-scroll-anchor",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V38: corrige regresiones de scroll de Música. Clamp continuo impide que el contenedor exterior sobrepase la fila Todas/Recientes/Favoritos/Mis listas; canciones y playlists usan un viewport contenido para que sus últimos elementos sean alcanzables sin quedar ocultos tras la navegación inferior.",
+  "notes": "V39: corrige específicamente el scroll con reproducción activa. El ancla de Todas/Recientes/Favoritos/Mis listas se mide arriba y permanece estable durante el gesto, evitando que el objetivo móvil detenga el colapso antes de tiempo y bloquee canciones/playlists. Se preserva el escenario sin reproductor validado en V38.",
   "channel": "DEV"
 }
