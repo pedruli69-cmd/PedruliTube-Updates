@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "0.4.5-dev-bidirectional-music-scroll",
+  "versionCode": 37,
+  "versionName": "0.4.6-dev-music-scroll-architecture",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V36: corrección estructural del scroll de Música. Relevo bidireccional entre reproductor/cabecera y contenido: primero colapsa hasta las pestañas, después desplaza canciones o listas; al volver al inicio recupera el reproductor. El final del contenido ya no empuja la pantalla exterior.",
+  "notes": "V37: reconstrucción del contrato de scroll de Música. Anclaje geométrico estable en Todas/Recientes/Favoritos/Mis listas, relevo bidireccional reproductor-contenido, viewport estable para canciones/playlists y márgenes/huecos integrados en el mismo nested scroll.",
   "channel": "DEV"
 }
