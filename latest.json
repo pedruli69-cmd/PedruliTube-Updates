@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "0.4.2-dev-music-loading-playlist-scroll",
+  "versionCode": 34,
+  "versionName": "0.4.3-dev-music-scroll-player-controls",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V33: Música distingue carga de biblioteca de biblioteca vacía y muestra Cargando canciones… durante el escaneo. Mis listas usa scroll virtualizado propio al alcanzar el anclaje, igual que la biblioteca, para evitar conflicto con la cabecera.",
+  "notes": "V34: bloque conjunto de Música. Añade minimizar/restaurar reproductor grande sin detener audio; corrige scroll de biblioteca cuando no hay reproductor o está minimizado; Mis listas pasa a un único scroll que incluye cabecera, buscador, Favoritos y playlists para evitar pelea con el contenedor exterior; botón Nueva lista más compacto. Mantiene estado Cargando canciones durante lectura inicial.",
   "channel": "DEV"
 }
