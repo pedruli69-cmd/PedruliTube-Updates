@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "0.4.3-dev-music-scroll-player-controls",
+  "versionCode": 35,
+  "versionName": "0.4.4-dev-music-scroll-boundary",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V34: bloque conjunto de Música. Añade minimizar/restaurar reproductor grande sin detener audio; corrige scroll de biblioteca cuando no hay reproductor o está minimizado; Mis listas pasa a un único scroll que incluye cabecera, buscador, Favoritos y playlists para evitar pelea con el contenedor exterior; botón Nueva lista más compacto. Mantiene estado Cargando canciones durante lectura inicial.",
+  "notes": "V35: corrige los límites de scroll de Música. Con reproductor grande o minimizado, el contenido interno no toma el gesto hasta alcanzar el anclaje de Todas/Recientes/Favoritos/Mis listas; al llegar al anclaje el scroll exterior queda bloqueado para que márgenes y finales de listas no oculten filtros, logo ni Ajustes. Mis listas mantiene scroll interno completo con el reproductor abierto.",
   "channel": "DEV"
 }
