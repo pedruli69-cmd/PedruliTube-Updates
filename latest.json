@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "0.5.0-dev-ota-cache-fix",
+  "versionCode": 42,
+  "versionName": "0.5.1-dev-mp3-duration-fix",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V41: incluye las correcciones de scroll de V40 y endurece el actualizador OTA con cache-buster y cabeceras no-cache/no-store para evitar manifiestos DEV obsoletos.",
+  "notes": "V42: corrige la conversión YouTube→MP3 para respetar la duración editorial real del vídeo. El último buffer PCM se recorta por muestras hasta el límite temporal antes de codificar, evitando padding/silencio final y duraciones infladas en nuevas descargas.",
   "channel": "DEV"
 }
