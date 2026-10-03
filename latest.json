@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "0.4.9-dev-scroll-handoff-fix",
+  "versionCode": 41,
+  "versionName": "0.5.0-dev-ota-cache-fix",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V40: corrige el relevo de scroll con reproductor activo. Canciones y Mis listas permanecen desplazables bajo nested scroll; el reproductor colapsa hasta dejar arriba las cuatro pestañas y se elimina el fragmento visible del reproductor antes de entregar el scroll a la biblioteca.",
+  "notes": "V41: incluye las correcciones de scroll de V40 y endurece el actualizador OTA con cache-buster y cabeceras no-cache/no-store para evitar manifiestos DEV obsoletos.",
   "channel": "DEV"
 }
