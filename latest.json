@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "0.4.8-dev-active-player-scroll-anchor",
+  "versionCode": 40,
+  "versionName": "0.4.9-dev-scroll-handoff-fix",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V39: corrige específicamente el scroll con reproducción activa. El ancla de Todas/Recientes/Favoritos/Mis listas se mide arriba y permanece estable durante el gesto, evitando que el objetivo móvil detenga el colapso antes de tiempo y bloquee canciones/playlists. Se preserva el escenario sin reproductor validado en V38.",
+  "notes": "V40: corrige el relevo de scroll con reproductor activo. Canciones y Mis listas permanecen desplazables bajo nested scroll; el reproductor colapsa hasta dejar arriba las cuatro pestañas y se elimina el fragmento visible del reproductor antes de entregar el scroll a la biblioteca.",
   "channel": "DEV"
 }
