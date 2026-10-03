@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "0.5.3-dev-mp3-duration-diag",
+  "versionCode": 45,
+  "versionName": "0.5.4-dev-persistent-mp3-diag",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V44 diagnóstico MP3: velocidad normal restaurada, límite de padding/silencio final, fallback/reintento de portada y telemetría local de duración para aislar la discrepancia YouTube→MP3.",
+  "notes": "V45 diagnóstico persistente MP3: guarda localmente fuente/YouTube/PCM/MP3 para aislar la discrepancia de duración sin depender de ADB. Mantiene velocidad normal, límite de padding y fallback de portada.",
   "channel": "DEV"
 }
