@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "0.5.2-dev-mp3-sample-count-fix",
+  "versionCode": 44,
+  "versionName": "0.5.3-dev-mp3-duration-diag",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V43: corrige el conteo de muestras por canal al codificar MP3 estéreo con LAME, manteniendo el límite de duración editorial de V42. Caso de referencia: Lambada YouTube 12:20 frente a MP3 que antes mostraba 18:24.",
+  "notes": "V44 diagnóstico MP3: velocidad normal restaurada, límite de padding/silencio final, fallback/reintento de portada y telemetría local de duración para aislar la discrepancia YouTube→MP3.",
   "channel": "DEV"
 }
