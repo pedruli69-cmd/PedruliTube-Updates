@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "0.6.0-dev-music-touch-refresh",
+  "versionCode": 52,
+  "versionName": "0.6.1-dev-rotation-queue",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V51: zona tactil ampliada de la barra de reproduccion, revision de fluidez y refresco real de biblioteca musical. Pendiente: persistencia de cola al rotar y robustez Connection reset.",
+  "notes": "V52: correccion del fallo al girar el movil para conservar la cola de descargas y la descarga activa durante cambios de orientacion.",
   "channel": "DEV"
 }
