@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "0.5.6-dev-player-scrub-performance",
+  "versionCode": 48,
+  "versionName": "0.5.7-dev-player-scrub-performance",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V47: indicador de tiempo exacto al arrastrar la barra de reproducción y optimizaciones de fluidez en Música (scroll, filas de canciones y playlists). Mantiene intacta la corrección MP3 V46.",
+  "notes": "V48: indicador de tiempo exacto al arrastrar la barra de reproducción y optimizaciones de fluidez en Música. Mantiene intacta la corrección MP3 V46.",
   "channel": "DEV"
 }
