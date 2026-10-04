@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "0.6.2-dev-rotation-lock",
+  "versionCode": 54,
+  "versionName": "0.6.3-dev-rotation-root-fix",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V53: bloqueo de PedruliTube en vertical para impedir que la rotacion destruya la cola o una descarga activa.",
+  "notes": "V54 DEV: corrección estructural del bug de rotación; cola, URLs, progreso y descarga activa sobreviven a la recreación de Activity.",
   "channel": "DEV"
 }
