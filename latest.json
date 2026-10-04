@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "0.5.9-dev-scrub-follow",
+  "versionCode": 51,
+  "versionName": "0.6.0-dev-music-touch-refresh",
   "apkUrl": "https://via-fare-carriers-scanner.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V50: fuerza una versión OTA nueva con el indicador temporal que sigue la bolita por debajo de la barra de reproducción.",
+  "notes": "V51: zona tactil ampliada de la barra de reproduccion, revision de fluidez y refresco real de biblioteca musical. Pendiente: persistencia de cola al rotar y robustez Connection reset.",
   "channel": "DEV"
 }
