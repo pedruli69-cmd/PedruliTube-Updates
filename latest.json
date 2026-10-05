@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "0.7.3-dev-shazam-flow-fix",
+  "versionCode": 66,
+  "versionName": "0.7.5-dev-shazam-retry-fix",
   "apkUrl": "https://reflects-practice-establishing-hometown.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V64: corrige estado fantasma de Shazam entre shares, la X limpia el estado pendiente y Elegir prepara MP3 correctamente para continuar al flujo normal de descarga.",
+  "notes": "V66 DEV: corrige sesiones Shazam consecutivas, limpia la tarjeta completada anterior al iniciar un nuevo share, mantiene los candidatos de Shazam disponibles hasta confirmar encolado/descarga y evita bloqueo de botones tras fallo de un candidato.",
   "channel": "DEV"
 }
