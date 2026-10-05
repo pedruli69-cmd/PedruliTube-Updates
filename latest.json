@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "0.7.0-dev-auto-cleanup",
+  "versionCode": 62,
+  "versionName": "0.7.1-dev-shazam-capture",
   "apkUrl": "https://hypothesis-monroe-timothy-saturday.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V61: limpieza automática de descargas completadas; al terminar se actualizan historial/biblioteca, desaparece el elemento DONE y, si la cola queda vacía, Inicio vuelve automáticamente a Enlaces recientes y Actividad reciente. Los enlaces recientes se conservan para reutilizarlos.",
+  "notes": "V62 experimental: captura aislada de shares de Shazam sin tocar la cola validada de YouTube. Primera prueba: Shazam → Compartir → PedruliTube debe mostrar 'Shazam recibido...'.",
   "channel": "DEV"
 }
