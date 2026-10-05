@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "0.6.6-dev-link-flow",
+  "versionCode": 58,
+  "versionName": "0.6.7-dev-unified-download",
   "apkUrl": "https://hypothesis-monroe-timothy-saturday.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V57: Enlaces recientes y Actividad reciente plegables; detección del portapapeles al volver a PedruliTube; pegado robusto de URLs y corrección del flujo Analizar enlace.",
+  "notes": "V58: el resultado de Analizar enlace deriva ahora al mismo flujo de cola que Compartir desde YouTube; botón visible Añadir a cola para MP3/MP4 y Pegar enlace ya no depende de un estado de portapapeles obsoleto.",
   "channel": "DEV"
 }
