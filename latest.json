@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "0.6.9-dev-result-dismiss",
+  "versionCode": 61,
+  "versionName": "0.7.0-dev-auto-cleanup",
   "apkUrl": "https://hypothesis-monroe-timothy-saturday.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V60: la ficha de resultado del análisis se puede cerrar con X; limpia el resultado actual y vuelve arriba a Inicio para seguir con enlaces/actividad recientes.",
+  "notes": "V61: limpieza automática de descargas completadas; al terminar se actualizan historial/biblioteca, desaparece el elemento DONE y, si la cola queda vacía, Inicio vuelve automáticamente a Enlaces recientes y Actividad reciente. Los enlaces recientes se conservan para reutilizarlos.",
   "channel": "DEV"
 }
