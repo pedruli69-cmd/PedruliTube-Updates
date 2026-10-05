@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "0.7.2-dev-shazam-search",
+  "versionCode": 64,
+  "versionName": "0.7.3-dev-shazam-flow-fix",
   "apkUrl": "https://reflects-practice-establishing-hometown.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V63 experimental: Shazam compartido -> búsqueda automática en YouTube -> selección manual de candidato -> flujo normal de análisis/cola.",
+  "notes": "V64: corrige estado fantasma de Shazam entre shares, la X limpia el estado pendiente y Elegir prepara MP3 correctamente para continuar al flujo normal de descarga.",
   "channel": "DEV"
 }
