@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "0.6.7-dev-unified-download",
+  "versionCode": 59,
+  "versionName": "0.6.8-dev-action-labels",
   "apkUrl": "https://hypothesis-monroe-timothy-saturday.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V58: el resultado de Analizar enlace deriva ahora al mismo flujo de cola que Compartir desde YouTube; botón visible Añadir a cola para MP3/MP4 y Pegar enlace ya no depende de un estado de portapapeles obsoleto.",
+  "notes": "V59: el botón de transcripción tiene ahora espacio suficiente para mostrar claramente 'Descargar transcripción'; se evita que parezca un botón genérico 'Descargar'.",
   "channel": "DEV"
 }
