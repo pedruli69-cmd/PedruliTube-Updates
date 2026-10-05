@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apkUrl": "https://raw.githubusercontent.com/pedruli69-cmd/PedruliTube-Updates/main/preflight/PreFlight-latest.apk",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "notes": "Canal OTA de PreFlight preparado. La primera release estable todavía no ha sido publicada."
+}
