@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/pedruli69-cmd/PedruliTube-Updates/releases/download/preflight-v1.0.0/PreFlight-latest.apk",
-  "sha256": "f3bf31dcdef368ff7e05f56ffe4cad804064922fee096ad1475f26dd51e38c76",
-  "notes": "Primera versión estable de PreFlight."
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/pedruli69-cmd/PedruliTube-Updates/releases/download/preflight-v1.0.1/PreFlight-latest.apk",
+  "sha256": "1807d8d5c7074d878f7be6f8ba3a2dd5f7d53792b610fcc66819dabebd20efff",
+  "notes": "Selector de archivos nativo de Android, interfaz adaptada para móviles y mejoras del sistema de actualización OTA."
 }
