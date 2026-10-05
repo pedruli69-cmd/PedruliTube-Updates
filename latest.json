@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "0.7.1-dev-shazam-capture",
-  "apkUrl": "https://hypothesis-monroe-timothy-saturday.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V62 experimental: captura aislada de shares de Shazam sin tocar la cola validada de YouTube. Primera prueba: Shazam → Compartir → PedruliTube debe mostrar 'Shazam recibido...'.",
+  "versionCode": 63,
+  "versionName": "0.7.2-dev-shazam-search",
+  "apkUrl": "https://reflects-practice-establishing-hometown.trycloudflare.com/PedruliTube-dev.apk",
+  "notes": "V63 experimental: Shazam compartido -> búsqueda automática en YouTube -> selección manual de candidato -> flujo normal de análisis/cola.",
   "channel": "DEV"
 }
