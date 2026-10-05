@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "versionName": "0.6.4-dev-home",
+  "versionCode": 56,
+  "versionName": "0.6.5-dev-home-polish",
   "apkUrl": "https://hypothesis-monroe-timothy-saturday.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V55: nuevo Inicio con acceso rápido a enlaces e importación, cola dinámica, enlaces recientes, actividad reciente contextual y optimización de rendimiento del reproductor.",
+  "notes": "V56: pulido de Inicio con accesos rápidos Pegar enlace/Importar, Enlaces recientes compartibles, Actividad reciente visual y Cola de descargas integrada; incluye optimización de rendimiento del reproductor.",
   "channel": "DEV"
 }
