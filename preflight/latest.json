@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/pedruli69-cmd/PedruliTube-Updates/releases/download/preflight-v1.0.4/preflight-release.apk",
-  "sha256": "968423ca35184ad87f8d1b579986ff387fe3481bed7e68aaecdd2147bf79f89b",
-  "notes": "PreFlight 1.0.4"
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/pedruli69-cmd/PedruliTube-Updates/releases/download/preflight-v1.0.5/preflight-release.apk",
+  "sha256": "5fdcecaa3db93fdf0455c75655cf775a0c7f8163fcccf10f5fcd191fb007c522",
+  "notes": "PreFlight 1.0.5 — icono corregido."
 }
