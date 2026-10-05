@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "0.6.8-dev-action-labels",
+  "versionCode": 60,
+  "versionName": "0.6.9-dev-result-dismiss",
   "apkUrl": "https://hypothesis-monroe-timothy-saturday.trycloudflare.com/PedruliTube-dev.apk",
-  "notes": "V59: el botón de transcripción tiene ahora espacio suficiente para mostrar claramente 'Descargar transcripción'; se evita que parezca un botón genérico 'Descargar'.",
+  "notes": "V60: la ficha de resultado del análisis se puede cerrar con X; limpia el resultado actual y vuelve arriba a Inicio para seguir con enlaces/actividad recientes.",
   "channel": "DEV"
 }
