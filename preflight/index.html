@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PreFlight — Descargar</title>
+<style>body{font-family:system-ui,-apple-system,sans-serif;max-width:680px;margin:0 auto;padding:48px 22px;text-align:center;color:#172033}h1{font-size:2.3rem;margin-bottom:8px}p{line-height:1.5;color:#526078}.btn{display:inline-block;margin-top:22px;padding:15px 24px;border-radius:12px;background:#172033;color:white;text-decoration:none;font-weight:700}.small{font-size:.9rem;margin-top:24px}</style>
+</head>
+<body>
+<h1>PreFlight</h1>
+<p>Previsión operativa de vuelos.</p>
+<p id="status">Buscando la última versión disponible…</p>
+<a id="download" class="btn" href="#" style="display:none">Descargar PreFlight</a>
+<p class="small">Android · El enlace de descarga siempre apunta a la versión publicada más reciente.</p>
+<script>
+fetch('./latest.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error();return r.json()}).then(m=>{document.getElementById('status').textContent='Última versión: '+m.versionName;const a=document.getElementById('download');a.href=m.apkUrl;a.style.display='inline-block'}).catch(()=>{document.getElementById('status').textContent='No se ha podido consultar la versión. Inténtalo de nuevo en unos minutos.'})
+</script>
+</body>
+</html>
