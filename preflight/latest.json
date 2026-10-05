@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/pedruli69-cmd/PedruliTube-Updates/releases/download/preflight-v1.0.1/PreFlight-latest.apk",
-  "sha256": "1807d8d5c7074d878f7be6f8ba3a2dd5f7d53792b610fcc66819dabebd20efff",
-  "notes": "Selector de archivos nativo de Android, interfaz adaptada para móviles y mejoras del sistema de actualización OTA."
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/pedruli69-cmd/PedruliTube-Updates/releases/download/preflight-v1.0.2/PreFlight-latest.apk",
+  "sha256": "83d413028c8a87695528f3c08058879bebfd95636d253f046644df072a637d08",
+  "notes": "Nuevo icono oficial de PreFlight. Los vuelos PGT de Mañana T2 pasan al bloque especial junto a EZY y EJU, tanto en llegadas como en salidas y manteniendo el orden cronológico."
 }
