@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/pedruli69-cmd/PedruliTube-Updates/releases/download/preflight-v1.0.3/PreFlight-latest.apk",
-  "sha256": "316b2f77e7713575932253d9dd90b3a365ebfaa311a2308febb18c8a2b96bbc0",
-  "notes": "Corregido el icono de la aplicación para eliminar el reborde blanco."
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/pedruli69-cmd/PedruliTube-Updates/releases/download/preflight-v1.0.4/preflight-release.apk",
+  "sha256": "968423ca35184ad87f8d1b579986ff387fe3481bed7e68aaecdd2147bf79f89b",
+  "notes": "PreFlight 1.0.4"
 }
